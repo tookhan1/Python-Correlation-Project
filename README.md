@@ -2,9 +2,8 @@
 This is a Python project analyzing and visualizing the coorelation between movies and their various statistics
 
 
-## Python Competency
-
-## Here is what my project will demonstrate
+# Python Competency
+## Here is what my project will demonstrate:
 
 * Acquire the prerequisite Python skills to implement specific applications of - Machine Learning, Web Development, etc..
 * Evaluating primitive types in python: type()
