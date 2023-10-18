@@ -6,7 +6,6 @@ This is a Python project analyzing and visualizing the coorelation between movie
 
 ## Here is what my project will demonstrate
 
-* Have working knowledge of the Python programming language
 * Acquire the prerequisite Python skills to implement specific applications of - Machine Learning, Web Development, etc..
 * Evaluating primitive types in python: type()
 * Declaring variables and variable declaration conventions: =
@@ -21,7 +20,6 @@ This is a Python project analyzing and visualizing the coorelation between movie
 * Basic DataFrame and Series Functions 
 * Indexing and selecting data from a Pandas DataFrame
 * Formatting DataFrame data
-* Exporting data to common file formats: .xlsx, .csv, etc.
 
 * Group large amounts of data with Groupby
 * Create spreadsheet-style pivot tables as a DataFrame
