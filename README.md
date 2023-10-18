@@ -4,9 +4,7 @@ This is a Python project analyzing and visualizing the coorelation between movie
 
 ## Python Competency
 
-# Here is what my project will demonstrate
-
-## Python
+## Here is what my project will demonstrate
 
 * Have working knowledge of the Python programming language
 * Acquire the prerequisite Python skills to implement specific applications of - Machine Learning, Web Development, etc..
